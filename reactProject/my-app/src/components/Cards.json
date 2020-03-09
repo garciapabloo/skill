@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Javascript",
+    "description": "Learn amazing street workout and calisthenics",
+    "img": "/js.png"
+  },
+  {
+    "id": 2,
+    "title": "CSS",
+    "description": "Learn the secrets of bodyweight techniques",
+    "img": "/css.png"
+  },
+  {
+    "id": 3,
+    "title": "HTML",
+    "description": "Train anytime, everywere and become a superhero!",
+    "img": "/html.png"
+  },
+  {
+    "id": 4,
+    "title": "Java",
+    "description": "Learn the secrets of bodyweight techniques",
+    "img": "/java.png"
+  },
+  {
+    "id": 5,
+    "title": "Node JS",
+    "description": "Learn the secrets of bodyweight techniques",
+    "img": "/nodejs.png"
+  },
+  {
+    "id": 6,
+    "title": "React",
+    "description": "Learn the secrets of bodyweight techniques",
+    "img": "/react.png"
+  }
+]
